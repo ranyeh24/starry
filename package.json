@@ -14,7 +14,7 @@
     "landing page"
   ],
   "author": "Ranyeh",
-  "license": "ISC",
+  "license": "MIT",
   "description": "Tailwind CSS Business Website Template by Ranyeh.",
   "devDependencies": {
     "prettier": "^3.3.3",
